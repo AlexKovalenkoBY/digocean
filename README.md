@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+### Source text
+See [Source text of article](https://www.digitalocean.com/community/tutorials/vuejs-recursive-components).
